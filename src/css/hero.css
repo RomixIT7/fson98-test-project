@@ -1,0 +1,9 @@
+.hero {
+  background-color: green;
+  padding: 10px;
+}
+
+.hero-list {
+  display: flex;
+  gap: 20px;
+}
